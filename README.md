@@ -2,7 +2,7 @@
 
 <div allign = "center">
 
-<img src="https://github.com/NathaliaNogueira/NathaliaNogueira/assets/94802675/d96e5054-204d-4760-b1f4-3237e86475a4"/>
+<img src="https://github.com/NathaliaNogueira/NathaliaNogueira/assets/94802675/d96e5054-204d-4760-b1f4-3237e86475a4" width = 100px/>
 
 </div>
 <hr>
