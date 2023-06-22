@@ -4,7 +4,8 @@
 <hr>
 
 <div allign = "center">
-         <img src="https://github.com/NathaliaNogueira/NathaliaNogueira/assets/94802675/d96e5054-204d-4760-b1f4-3237e86475a4" width = "500px" />
+         
+<img src="https://github.com/NathaliaNogueira/NathaliaNogueira/assets/94802675/d96e5054-204d-4760-b1f4-3237e86475a4" width = "500px" />
 
 </div>
 <hr>
