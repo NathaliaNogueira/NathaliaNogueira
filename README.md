@@ -6,6 +6,11 @@
 <img src="https://github.com/NathaliaNogueira/NathaliaNogueira/assets/94802675/d96e5054-204d-4760-b1f4-3237e86475a4" width = "500px" />
 
 </div>
+<div>
+<a href="https://github.com/NathaliaNogueira">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NathaliaNogueira&layout=compact&langs_count=7&theme=dracula"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=NathaliaNogueira&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
 <hr>
 <div align="center">
 <h2>&#128161; Technologies: </h2> 
